@@ -1,0 +1,5 @@
+number_1=(25)
+number_2=int(25)
+number_3=int(25.0)
+result=(number_1+(number_2)+(number_3))
+print(result)
